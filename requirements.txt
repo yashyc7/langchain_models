@@ -1,0 +1,16 @@
+langchain
+langchain-core
+
+langchain-openai
+openai
+langchain-anthropic
+langchain-google-genai
+google-genai
+transformers
+huggingface-hub
+
+#for env management 
+python-dotenv
+#for ml purposes
+numpy
+scikit-learn
